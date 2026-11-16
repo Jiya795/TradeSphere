@@ -21,7 +21,7 @@ const handleBuyClick = async () => {
     });
 
     const res = await axios.post(
-      "http://localhost:3002/newOrder",
+      "https://tradesphere-5qd4.onrender.com/newOrder",
       {
         name: uid,
         qty: Number(stockQuantity),

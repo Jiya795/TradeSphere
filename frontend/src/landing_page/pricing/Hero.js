@@ -12,7 +12,7 @@ function Hero() {
                         are absolutely free — ₹ 0 brokerage.</p>
                 </div>
                 <div className='col-4 p-5 mt-5'>
-                    <img src='media/intradayTrades.svg' />
+                    <img src='MediaintradayTrades.svg' />
                     <h1 className='fs-3'>Intraday and F&O trades</h1>
                     <p className='text-muted text-center'>Flat Rs. 20 or 0.03% (whichever is lower)
                         per executed order on intraday trades

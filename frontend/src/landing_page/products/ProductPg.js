@@ -8,7 +8,7 @@ function ProductPg() {
         <>
             <Hero />
             <LeftSection
-                imageURL="media/kite.png"
+                imageURL="Mediakite.png"
                 productName="Kite"
                 productDesription="Our ultra-fast flagship trading platform with streaming market data, advanced charts, an elegant UI, and more. Enjoy the Kite exp[erience seamlessly on your Android and iOS devices."
                 tryDemo=""
@@ -18,13 +18,13 @@ function ProductPg() {
             />
             
             <RightSection
-                imageURL="media/console.png"
+                imageURL="Mediaconsole.png"
                 productName="Console"
                 productDesription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations."
                 learnMore=""
             />
             <LeftSection
-                imageURL="media/coin.png"
+                imageURL="Mediacoin.png"
                 productName="Coin"
                 productDesription="Buy direct mutual funds online, commission-free, delivered directly to your Demat account. Enjoy the investment experience on your Android and iOS devices."
                 tryDemo=""
@@ -34,13 +34,13 @@ function ProductPg() {
             />
             
             <RightSection
-                imageURL="media/kiteconnect.png"
+                imageURL="Mediakiteconnect.png"
                 productName="Kite Connect API"
                 productDesription="Build powerful trading platforms and experiences with our super simple HTTP/JSON APIs. If you are a startup, build your investment app and showcase it to our clientbase."
                 learnMore=""
             />
             <LeftSection
-                imageURL="media/varsity.png"
+                imageURL="Mediavarsity.png"
                 productName="Varsity mobile"
                 productDesription="An easy to grasp, collection of stock market lessons with in-depth coverage and illustrations. Content is broken down into bite-size cards to help you learn on the go."
                 tryDemo=""

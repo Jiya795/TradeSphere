@@ -6,7 +6,7 @@ function Hero() {
                 <h1>Pricing</h1>
                 <h3 className='text-muted fs-5 mt-3'>Free equity investments and flat <i class="fa fa-inr"></i>20 traday and F&O trades</h3>
                 <div className='col-4 p-5 mt-5'>
-                    <img src='Media/pricing0.svg' />
+                    <img src='/Media/pricing0.svg' />
                     <h1 className='fs-3'>Free equity delivery</h1>
                     <p className='text-muted text-center'>All equity delivery investments (NSE, BSE),
                         are absolutely free — ₹ 0 brokerage.</p>

@@ -27,9 +27,17 @@ MongoDB models for holdings, positions and orders using Mongoose
 
 Tech stack
 Frontend: React, React Router, Bootstrap, Axios
+
+
 Dashboard: React, Chart.js, Material UI
+
+
 Backend: Node.js, Express
+
+
 Database: MongoDB Atlas, Mongoose
+
+
 Deployment: Render
 
 

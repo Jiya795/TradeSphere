@@ -2,7 +2,11 @@ TradeSphere is a full-stack stock trading platform that I built to learn how a r
 
 
 I started this project to get hands-on with the MERN stack, and it ended up teaching me a lot about routing, REST APIs, state management and deployment.
+
+
 Live Demo
+
+
 Website: https://tradesphere-1-zc5s.onrender.com
 
 

@@ -6,28 +6,28 @@ function Universe() {
             <h1>The Zerodha Universe</h1>
             <p>Extend your trading and investment experience even further with our partner platforms.</p>
             <div className='col-4 p-3 mt-3'>
-                <img src='MediasmallcaseLogo.png'/>
+                <img src='/Media/goldenpiLogo.png'/>
                 <p className='text-small text-muted mt-2'>Thematic investment platform</p>
             </div>
             <div className='col-4 p-3 mt-3'>
-                <img src='MediastreakLogo.png'style={{width:"120px"}}/>
+                <img src='/Media/streakLogo.png' style={{width:"120px"}}/>
                 <p className='text-small text-muted mt-2'>Algo & strategy platform</p>
             </div>
             <div className='col-4 p-3 mt-3'>
-                <img src='MediasensibullLogo.svg'/>
+                <img src='/Media/sensibullLogo.svg'/>
                 <p className='text-small text-muted mt-2'>Options trading platform</p>
             </div>
 
              <div className='col-4 p-3 mt-3'>
-                <img src='MediazerodhaFundhouse.png'style={{width:"160px"}}/>
+                <img src='/Media/zerodhaFundhouse.png' style={{width:"160px"}}/>
                 <p className='text-small text-muted mt-2'>Asset management</p>
             </div>
             <div className='col-4 p-3 mt-3'>
-                <img src='MediagoldenpiLogo.png'/>
+                <img src='/Media/goldenpiLogo.png'/>
                 <p className='text-small text-muted mt-2'>Bonds trading platform</p>  
             </div>
             <div className='col-4 p-3 mt-3'>
-                <img src='MediadittoLogo.png' style={{width:"120px"}}/>
+                <img src='/Media/dittoLogo.png' style={{width:"120px"}}/>
                 <p className='text-small text-muted mt-2'>Insurance</p>
             </div>
             
